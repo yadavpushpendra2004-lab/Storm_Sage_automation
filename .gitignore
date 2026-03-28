@@ -1,0 +1,19 @@
+client_secret.json
+token.pickle
+raw_clips/
+final_output/
+__pycache__/
+*.mp4
+#private keys
+*.txt
+*.json
+*.pickle
+# Environment Variables (API Keys)
+.env
+
+# Python Virtual Environment (If you use one)
+venv/
+.venv/
+
+# Streamlit config (optional)
+.streamlit/
